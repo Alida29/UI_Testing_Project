@@ -1,0 +1,21 @@
+{
+  "name": "cypress_automation",
+  "version": "1.0.0",
+  "description": "automation_with-cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alida",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.0",
+    "cypress": "^13.6.2",
+    "mocha": "^10.3.0"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.5",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
